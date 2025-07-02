@@ -4,7 +4,7 @@ A Microsoft Power BI business intelligence dashboard for Maven Market, a multi-n
 
 The customer base is spread across 3 countries: Canada, Mexico and the United States. Transactions and Returns data is available for the period between 01/01/1997 and 30/12/1998. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status, marital status. 
 
-<img alt="Maven Market Executive Dashboard" src="C:\Users\HI\Desktop\Power BI\Microsoft Power BI Desktop for Business Intelligence\Projects\AdventureWorks Report Project\exec_dashboard.jpeg">
+<img alt="Maven Market Executive Dashboard" src="src="./images/screenshots/Topline_Performance.jpeg">
 
 ## Features
 

@@ -27,7 +27,7 @@ This project involved the following tasks:
 
 #### Executive Summary View
 
-- high-level KPIs for transactions, Profit and returns.
+- High-level KPIs for transactions, Profit and returns.
 - Maps and Tree Maps to check total transactions per country and drill down to country, state and city.
 - Weekly revenue trends are analyzed using column charts.
 - Check whether revenue has met the target using gauge chart.

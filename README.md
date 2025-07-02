@@ -11,7 +11,7 @@ The customer base is spread across 3 countries: Canada, Mexico and the United St
 - Track key performance indicators (KPIs) related to transactions, profit, and returns and compare it with last month data.
 - Compare performance across different regions.
 - Analyse product-level trends.
-- Analyze the transactions trending over time and check whether it met the target.
+- Analyze the revenue trending over time and check whether it met the target.
 
 ## Project Highlights
 
